@@ -8,8 +8,8 @@
 # Check if letter exists in word (and position)
 # If letter exists, insert it in the dashes
 # Loop to find and substitute further occurances
-# Draw hanging man
-# .....
+# Draw hanging man (Not done this)
+# 
 
 #Imports
 import random
